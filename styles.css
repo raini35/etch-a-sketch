@@ -1,0 +1,15 @@
+.block {
+	height: 30px; width: 30px;   
+	display: inline-block;
+	margin: 1px 1px 1px 1px; 
+	border:1px solid black;
+}
+
+#container{
+	width: 1000px; height: 1000px; 
+		border:1px solid black;
+
+}
+button {
+    float:left;
+}
